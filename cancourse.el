@@ -1,3 +1,4 @@
+;;; ...  -*- lexical-binding: t -*-
 ;;; cancourse --- View a Canvas course -*- lexical-binding t; -*-
 ;;
 ;;; Copyright (c) 2021 Mikael Svahnberg
